@@ -7,4 +7,4 @@ jobs:
   build-kernel:
     runs-on: ubuntu-20.04
     steps:
-      - uses: manjaro-kernels/kernel-action@action
+      - uses: manjaro-kernels/kernel-action@master
